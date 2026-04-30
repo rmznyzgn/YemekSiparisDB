@@ -1,1 +1,1 @@
-# YemekSiparisDB
+İlk tablolar oluşturuldu (Musteriler, Restoranlar)
